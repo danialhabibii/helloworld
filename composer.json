@@ -1,0 +1,17 @@
+{
+    "name": "dni/helloworld",
+    "description": "a basic laravel package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dni\\Helloworld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dni"
+        }
+    ],
+    "require": {}
+}
